@@ -1,0 +1,33 @@
+hidupi server sercive 
+contoh xampp
+
+
+pindahkan file hasil extrak kedalam
+c://xampp/htdocs/
+
+buka localhost/phpmyadmin/
+buat nama database dengan nama tarif_pos_palembang
+buka folder di c://xampp/htdocs/tarif POS Palembang/ 
+atau drag / tarik file extensi sql (tarif_pos_palembang.sql)
+
+atau klik import di localhost/phpmyadmin/
+sesuaikan dengan nama database tadi yang dibuat
+browse folder di c://xampp/htdocs/tarif POS Palembang/
+atau drag / tarik file extensi sql (tarif_pos_palembang.sql)
+
+
+jalankan aplikasi
+localhost/tarif pos palembang
+username 		password 		level
+
+POS-1234  		akamsi123		Admin 
+
+POS-123 		123456 			Kasir
+
+POS-222 		123456 			Keuangan
+
+POS-321			123456 			Pimpinan
+
+
+happy fun 
+silakan olah data nya 
